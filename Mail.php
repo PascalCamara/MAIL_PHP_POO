@@ -150,6 +150,6 @@ class Mail {
 
     public function __destruct()
     {
-       var_dump($this);
+       //var_dump($this);
     }
 }
